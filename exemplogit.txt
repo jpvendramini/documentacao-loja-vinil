@@ -1,0 +1,9 @@
+1 - criar pasta do projeto
+2 - "git bash"
+3 - git init
+4 - git remote add origin https://github.com/jpvendramini/documentacao-loja-vinil.git
+5 - git pull origin master
+6 - git status
+7 - git add .
+8 - git commit -m "Requisitos"
+9 - git push origin master
